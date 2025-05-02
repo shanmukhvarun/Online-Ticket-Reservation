@@ -233,7 +233,7 @@ void Train(string pickup, string destination, int date)
 
     switch(p) {
         case 1: compart = "Sleeper"; break;
-        case 2: compart = "AC First Class"; break;
+        case 2: compart = "one tier AC "; break;
         case 3: compart = "Second Seating"; break;
         case 4: compart = "General"; break;
         default:
